@@ -1,3 +1,4 @@
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 ![Brayan Banner](fondo.png)
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>¡Hola! Soy Brayan Ruiz</h2>
@@ -5,7 +6,7 @@
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 
 <!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ### 👨🏻‍💻 &nbsp;Sobre mí
 
 💡 &nbsp;Soy curioso y la programación es aquello que alimenta mi esa curiosidad día a día\
