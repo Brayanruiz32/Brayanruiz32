@@ -14,7 +14,7 @@
 
 ### 🛠 &nbsp;Tecnologías
 
-####  Front-End
+### Front-End
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,angular)](https://skillicons.dev)
 ### Back-End
 [![My Skills](https://skillicons.dev/icons?i=spring,java)](https://skillicons.dev)
