@@ -15,7 +15,7 @@
 
 ### 🛠 &nbsp;Tecnologías
 
-[![My Skills](https://skillicons.dev/icons?i=java&theme=light)]
+[![My Skills](https://skillicons.dev/icons?i=java&theme=light)](https://skillicons.dev)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
