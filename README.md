@@ -35,7 +35,7 @@
 <p align="center">
 <a href="www.linkedin.com/in/brayanruizm"><img src="https://img.shields.io/badge/Brayan%20Ruiz%20Marreros-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:brayanruiz_32@hotmail.com"> <img src="https://img.shields.io/badge/brayanruiz_32-0078D4?style=flat&logo=microsoft-outlook&logoColor=white"/></a>
-<a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://instagram.com/brayanm"><img src="https://img.shields.io/badge/@brayanm-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
 
 
