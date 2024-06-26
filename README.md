@@ -30,7 +30,7 @@
 #### :hammer: Herramientas
 [![My Skills](https://skillicons.dev/icons?i=vscode,postman,docker,hibernate,maven,)](https://skillicons.dev)
 
-### 🤝🏻 &nbsp;Connect with Me
+### 🤝🏻 &nbsp;Conecta conmigo
 
 <p align="center">
 <a href="https://www.adityavsingh.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
