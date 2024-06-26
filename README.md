@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ![Brayan Banner](fondo.png)
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>¡Hola! Soy Brayan Ruiz</h2>
