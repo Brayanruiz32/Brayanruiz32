@@ -10,7 +10,7 @@
 🎓 &nbsp;Soy bachiller de la carrera de Ingeniería de Sistemas e Informática.\
 🌱 &nbsp;Uno de mis objetivos es el crecimiento continuo y profesional dentro del ecosistema de Java y sus herramientas que la comprenden.\
 ✍️ &nbsp;En mis ratos libres, leo acerca de patrones de diseño y es lo que actualmente estoy aprendiendo.\
-💬 &nbsp;Siéntete libre de conectar conmigo en alguna de mis redes sociales y estaré dispuesto a ayudarnos.\
+💬 &nbsp;Siéntete libre de conectar conmigo en alguna de mis redes sociales y estaré dispuesto a ayudarnos.
 
 ### 🛠 &nbsp;Tecnologías
 
