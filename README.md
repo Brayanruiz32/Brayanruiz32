@@ -16,11 +16,11 @@
 
 ### :computer: Front-End
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,angular)](https://skillicons.dev)
-### Back-End
+### :wrench: Back-End
 [![My Skills](https://skillicons.dev/icons?i=spring,java)](https://skillicons.dev)
-### Database
+### :floppy_disk: Database
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
-### Cloud
+### :cloud: Cloud
 [![My Skills](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
 
 
