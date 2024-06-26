@@ -10,11 +10,12 @@
 
 ### 👨🏻‍💻 &nbsp;Sobre mí
 
-💡 &nbsp;Soy curioso y la programación es aquello que alimenta mi esa curiosidad día a día\
-🎓 &nbsp;Soy bachiller de la carrera de Ingeniería de Sistemas e Informática.\
-🌱 &nbsp;Uno de mis objetivos es el crecimiento continuo y profesional dentro del ecosistema de Java y sus herramientas que la comprenden.\
-✍️ &nbsp;En mis ratos libres, leo acerca de patrones de diseño y es lo que actualmente estoy aprendiendo.\
-💬 &nbsp;Siéntete libre de conectar conmigo en alguna de mis redes sociales y estaré dispuesto a ayudarnos.
+💡 &nbsp; Soy autodidacta e innovador, siempre cuestionando el porqué de las cosas y los procesos dentro de mi campo.
+🎓 &nbsp; Soy bachiller en Ingeniería de Sistemas e Informática.
+🌱 &nbsp; Mi objetivo es crecer profesionalmente en el ecosistema de Java y sus herramientas.
+✍️ &nbsp; En mis ratos libres, estudio patrones de diseño.
+💬 &nbsp; Siéntete libre de conectarte conmigo en mis redes sociales. Estoy aquí para ayudarnos mutuamente.
+
 
 ### 🛠 &nbsp;Tecnologías
 
