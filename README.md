@@ -21,7 +21,7 @@
 ### Database
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
 ### Cloud
-[![My Skills](https://skillicons.dev/icons?i=aws,azure)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
 
 
 ### ⚙️ &nbsp;GitHub Analytics
