@@ -12,20 +12,16 @@
 ✍️ &nbsp;En mis ratos libres, leo acerca de patrones de diseño y es lo que actualmente estoy aprendiendo.\
 💬 &nbsp;Siéntete libre de conectar conmigo en alguna de mis redes sociales y estaré dispuesto a ayudarnos.\
 
-
 ### 🛠 &nbsp;Tecnologías
 
-#### Front-End
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-
+####  Front-End
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,angular)](https://skillicons.dev)
 ### Back-End
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,java)](https://skillicons.dev)
 ### Database
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
 ### Cloud
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,azure)](https://skillicons.dev)
 
 
 ### ⚙️ &nbsp;GitHub Analytics
