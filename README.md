@@ -24,6 +24,7 @@
 [![My Skills](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
 
 ### :hammer: Herramientas
+[![My Skills](https://skillicons.dev/icons?i=vscode,postman,docker,hibernate,maven,)](https://skillicons.dev)
 
 ### 🤝🏻 &nbsp;Connect with Me
 
