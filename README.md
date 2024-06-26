@@ -14,16 +14,15 @@
 
 ### 🛠 &nbsp;Tecnologías
 
-### :computer: Front-End
+#### :computer: Front-End
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,angular)](https://skillicons.dev)
-### :wrench: Back-End
+#### :wrench: Back-End
 [![My Skills](https://skillicons.dev/icons?i=spring,java)](https://skillicons.dev)
-### :floppy_disk: Database
+#### :floppy_disk: Database
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
-### :cloud: Cloud
+#### :cloud: Cloud
 [![My Skills](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
-
-### :hammer: Herramientas
+#### :hammer: Herramientas
 [![My Skills](https://skillicons.dev/icons?i=vscode,postman,docker,hibernate,maven,)](https://skillicons.dev)
 
 ### 🤝🏻 &nbsp;Connect with Me
