@@ -14,13 +14,13 @@
 
 ### 🛠 &nbsp;Tecnologías
 
-### Front-End
+#### Front-End
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,angular)](https://skillicons.dev)
-### Back-End
+#### Back-End
 [![My Skills](https://skillicons.dev/icons?i=spring,java)](https://skillicons.dev)
-### Database
+#### Database
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
-### Cloud
+#### Cloud
 [![My Skills](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
 
 
