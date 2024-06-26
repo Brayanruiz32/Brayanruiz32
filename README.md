@@ -10,10 +10,10 @@
 
 ### 👨🏻‍💻 &nbsp;Sobre mí
 
-💡 &nbsp; Soy autodidacta e innovador, siempre cuestionando el porqué de las cosas y los procesos dentro de mi campo.
-🎓 &nbsp; Soy bachiller en Ingeniería de Sistemas e Informática.
-🌱 &nbsp; Mi objetivo es crecer profesionalmente en el ecosistema de Java y sus herramientas.
-✍️ &nbsp; En mis ratos libres, estudio patrones de diseño.
+💡 &nbsp; Soy autodidacta e innovador, siempre cuestionando el porqué de las cosas y los procesos dentro de mi campo.\
+🎓 &nbsp; Soy bachiller en Ingeniería de Sistemas e Informática.\
+🌱 &nbsp; Mi objetivo es crecer profesionalmente en el ecosistema de Java y sus herramientas.\
+✍️ &nbsp; En mis ratos libres, estudio patrones de diseño.\
 💬 &nbsp; Siéntete libre de conectarte conmigo en mis redes sociales. Estoy aquí para ayudarnos mutuamente.
 
 
